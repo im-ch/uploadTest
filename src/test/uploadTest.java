@@ -12,7 +12,8 @@ public class uploadTest {
 		System.out.println("hello5");
 		System.out.println("hello6");
 		System.out.println("hello7");
-		System.out.println("1시간 뒤면 집에 가요 우리 ^w^");
+		System.out.println("1�떆媛� �뮘硫� 吏묒뿉 媛��슂 �슦由� ^w^");
+		System.out.println("이제 30분남았당>^<");
 	}
 
 }
