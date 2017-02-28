@@ -12,7 +12,7 @@ public class uploadTest {
 		System.out.println("hello5");
 		System.out.println("hello6");
 		System.out.println("hello7");
-		
+		System.out.println("1시간 뒤면 집에 가요 우리 ^w^");
 	}
 
 }
